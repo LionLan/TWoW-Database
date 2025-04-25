@@ -1,12 +1,5534 @@
 {
-  "Weapon": {},
+  "Weapon": {
+    "unknown": [
+      {
+        "id": 18878,
+        "name": "Sorcerous Dagger",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 17,
+          "stamina": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 20.",
+            "statMod": {
+              "damageSpellPower": 20,
+              "healingPower": 20
+            },
+            "spellId": 14799
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 39,
+          "damageMax": 79,
+          "speed": 1.4,
+          "dps": 42.1
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 17069,
+        "name": "Striker's Mark",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "attackPower": 22
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+22 Attack Power.",
+            "statMod": {
+              "attackPower": 22
+            },
+            "spellId": 9332
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 69,
+          "damageMax": 129,
+          "speed": 2.5,
+          "dps": 39.6
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 18203,
+        "name": "Eskhandar's Right Claw",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 4
+        },
+        "effects": [],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 50,
+          "damageMax": 94,
+          "speed": 1.5,
+          "dps": 48.0
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 17072,
+        "name": "Blastershot Launcher",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 6
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 73,
+          "damageMax": 136,
+          "speed": 2.6,
+          "dps": 40.2
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 17103,
+        "name": "Azuresong Mageblade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 12,
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 40.",
+            "statMod": {
+              "damageSpellPower": 40,
+              "healingPower": 40
+            },
+            "spellId": 18056
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 64,
+          "damageMax": 140,
+          "speed": 2.4,
+          "dps": 42.5
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 18713,
+        "name": "Rhok'delar, Longbow of the Ancient Keepers",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+17 ranged Attack Power.",
+            "statMod": {},
+            "spellId": 21432
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 89,
+          "damageMax": 166,
+          "speed": 2.9,
+          "dps": 44.0
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 18282,
+        "name": "Core Marksman Rifle",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+22 ranged Attack Power.",
+            "statMod": {},
+            "spellId": 21434
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "RANDOMBOSSDROPS"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 88,
+          "damageMax": 146,
+          "speed": 3.2,
+          "dps": 36.6
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 19335,
+        "name": "Spineshatter",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 13,
+          "strength": 9
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Maces +5.",
+            "statMod": {
+              "maces": 5
+            },
+            "spellId": 15886
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 99,
+          "damageMax": 184,
+          "speed": 2.6,
+          "dps": 54.4
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 19350,
+        "name": "Heartstriker",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 9,
+          "attackPower": 24
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+24 Attack Power.",
+            "statMod": {
+              "attackPower": 24
+            },
+            "spellId": 14027
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 80,
+          "damageMax": 149,
+          "speed": 2.6,
+          "dps": 44.0
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 19365,
+        "name": "Claw of the Black Drake",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 13,
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 102,
+          "damageMax": 191,
+          "speed": 2.6,
+          "dps": 56.3
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 19368,
+        "name": "Dragonbreath Hand Cannon",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 14,
+          "stamina": 7
+        },
+        "effects": [],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Ebonroc"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 99,
+          "damageMax": 173,
+          "speed": 3.1,
+          "dps": 43.9
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 19361,
+        "name": "Ashjre'thul, Crossbow of Smiting",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+36 ranged Attack Power.",
+            "statMod": {},
+            "spellId": 21440
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 124,
+          "damageMax": 186,
+          "speed": 3.4,
+          "dps": 45.6
+        },
+        "weaponType": "unknown"
+      },
+      {
+        "id": 21272,
+        "name": "Blessed Qiraji Musket",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+31 ranged Attack Power.",
+            "statMod": {},
+            "spellId": 21438
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": null,
+          "damageMin": 109,
+          "damageMax": 184,
+          "speed": 3.1,
+          "dps": 47.3
+        },
+        "weaponType": "unknown"
+      }
+    ],
+    "two-hand mace": [
+      {
+        "id": 17073,
+        "name": "Earthshaker",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "attackPower": 22
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+22 Attack Power.",
+            "statMod": {
+              "attackPower": 22
+            },
+            "spellId": 9332
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 175,
+          "damageMax": 263,
+          "speed": 3.5,
+          "dps": 62.6
+        },
+        "weaponType": "two-hand mace"
+      },
+      {
+        "id": 17182,
+        "name": "Sulfuras, Hand of Ragnaros",
+        "quality": "legendary",
+        "qualityId": 5,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 12,
+          "stamina": 12,
+          "fireResistance": 30
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Deals 5 Fire damage to anyone who strikes you with a melee attack.",
+            "statMod": {},
+            "spellId": 21142
+          }
+        ],
+        "durability": [
+          145,
+          145
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 223,
+          "damageMax": 372,
+          "speed": 3.7,
+          "dps": 80.4
+        },
+        "weaponType": "two-hand mace"
+      },
+      {
+        "id": 18803,
+        "name": "Finkle's Lava Dredger",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 25,
+          "intellect": 24,
+          "fireResistance": 15,
+          "attackPower": 210
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 9 mana per 5 sec.",
+            "statMod": {
+              "mp5": 9
+            },
+            "spellId": 21365
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+210 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.",
+            "statMod": {
+              "attackPower": 210
+            },
+            "spellId": 45440
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 155,
+          "damageMax": 234,
+          "speed": 2.9,
+          "dps": 67.1
+        },
+        "weaponType": "two-hand mace"
+      },
+      {
+        "id": 19357,
+        "name": "Herald of Woe",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 31,
+          "intellect": 20,
+          "agility": 17,
+          "stamina": 22,
+          "attackPower": 210
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+210 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.",
+            "statMod": {
+              "attackPower": 210
+            },
+            "spellId": 45440
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Flamegor"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 199,
+          "damageMax": 300,
+          "speed": 3.4,
+          "dps": 73.4
+        },
+        "weaponType": "two-hand mace"
+      },
+      {
+        "id": 19358,
+        "name": "Draconic Maul",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 27,
+          "stamina": 19,
+          "attackPower": 140
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 2%.",
+            "statMod": {
+              "crit": 2
+            },
+            "spellId": 7598
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+140 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.",
+            "statMod": {
+              "attackPower": 140
+            },
+            "spellId": 26153
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 187,
+          "damageMax": 282,
+          "speed": 3.5,
+          "dps": 67.0
+        },
+        "weaponType": "two-hand mace"
+      },
+      {
+        "id": 21703,
+        "name": "Hammer of Ji'zhi",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 22,
+          "stamina": 26,
+          "strength": 16
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 30.",
+            "statMod": {
+              "damageSpellPower": 30,
+              "healingPower": 30
+            },
+            "spellId": 14798
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand mace",
+          "damageMin": 198,
+          "damageMax": 297,
+          "speed": 3.5,
+          "dps": 70.7
+        },
+        "weaponType": "two-hand mace"
+      }
+    ],
+    "two-hand sword": [
+      {
+        "id": 18822,
+        "name": "Obsidian Edged Blade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 42
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Two-handed Swords +8.",
+            "statMod": {
+              "twohandedswords": 8
+            },
+            "spellId": 15771
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand sword",
+          "damageMin": 176,
+          "damageMax": 264,
+          "speed": 3.4,
+          "dps": 64.7
+        },
+        "weaponType": "two-hand sword"
+      },
+      {
+        "id": 17076,
+        "name": "Bonereaver's Edge",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 16
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand sword",
+          "damageMin": 206,
+          "damageMax": 310,
+          "speed": 3.4,
+          "dps": 75.9
+        },
+        "weaponType": "two-hand sword"
+      },
+      {
+        "id": 19334,
+        "name": "The Untamed Blade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 22,
+          "stamina": 16
+        },
+        "effects": [],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand sword",
+          "damageMin": 192,
+          "damageMax": 289,
+          "speed": 3.4,
+          "dps": 70.7
+        },
+        "weaponType": "two-hand sword"
+      },
+      {
+        "id": 19364,
+        "name": "Ashkandi, Greatsword of the Brotherhood",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 33,
+          "attackPower": 86
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+86 Attack Power.",
+            "statMod": {
+              "attackPower": 86
+            },
+            "spellId": 15829
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand sword",
+          "damageMin": 229,
+          "damageMax": 344,
+          "speed": 3.5,
+          "dps": 81.9
+        },
+        "weaponType": "two-hand sword"
+      }
+    ],
+    "one-hand sword": [
+      {
+        "id": 19019,
+        "name": "Thunderfury, Blessed Blade of the Windseeker",
+        "quality": "legendary",
+        "qualityId": 5,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 5,
+          "stamina": 8,
+          "fireResistance": 8,
+          "natureResistance": 9
+        },
+        "effects": [],
+        "durability": [
+          125,
+          125
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand sword",
+          "damageMin": 44,
+          "damageMax": 115,
+          "speed": 1.9,
+          "dps": 53.9
+        },
+        "weaponType": "one-hand sword"
+      },
+      {
+        "id": 18832,
+        "name": "Brutality Blade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 9,
+          "agility": 9
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand sword",
+          "damageMin": 90,
+          "damageMax": 168,
+          "speed": 2.5,
+          "dps": 51.6
+        },
+        "weaponType": "one-hand sword"
+      },
+      {
+        "id": 19351,
+        "name": "Maladath, Runed Blade of the Black Flight",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to parry an attack by 1%.",
+            "statMod": {},
+            "spellId": 13665
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Swords +5.",
+            "statMod": {
+              "swords": 5
+            },
+            "spellId": 15896
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand sword",
+          "damageMin": 86,
+          "damageMax": 162,
+          "speed": 2.2,
+          "dps": 56.4
+        },
+        "weaponType": "one-hand sword"
+      },
+      {
+        "id": 19352,
+        "name": "Chromatically Tempered Sword",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 14,
+          "strength": 14,
+          "stamina": 7
+        },
+        "effects": [],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand sword",
+          "damageMin": 106,
+          "damageMax": 198,
+          "speed": 2.6,
+          "dps": 58.5
+        },
+        "weaponType": "one-hand sword"
+      }
+    ],
+    "one-hand dagger": [
+      {
+        "id": 17071,
+        "name": "Gutgore Ripper",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 63,
+          "damageMax": 119,
+          "speed": 1.8,
+          "dps": 50.6
+        },
+        "weaponType": "one-hand dagger"
+      },
+      {
+        "id": 18805,
+        "name": "Core Hound Tooth",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 9,
+          "attackPower": 20
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+20 Attack Power.",
+            "statMod": {
+              "attackPower": 20
+            },
+            "spellId": 9331
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 57,
+          "damageMax": 107,
+          "speed": 1.6,
+          "dps": 51.3
+        },
+        "weaponType": "one-hand dagger"
+      },
+      {
+        "id": 18816,
+        "name": "Perdition's Blade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 73,
+          "damageMax": 137,
+          "speed": 1.8,
+          "dps": 58.3
+        },
+        "weaponType": "one-hand dagger"
+      },
+      {
+        "id": 19346,
+        "name": "Dragonfang Blade",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 13,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Daggers +5.",
+            "statMod": {
+              "daggers": 5
+            },
+            "spellId": 7576
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Vaelastrasz"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 69,
+          "damageMax": 130,
+          "speed": 1.8,
+          "dps": 55.3
+        },
+        "weaponType": "one-hand dagger"
+      },
+      {
+        "id": 19347,
+        "name": "Claw of Chromaggus",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 17,
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 64.",
+            "statMod": {
+              "damageSpellPower": 64,
+              "healingPower": 64
+            },
+            "spellId": 23730
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 4 mana per 5 sec.",
+            "statMod": {
+              "mp5": 4
+            },
+            "spellId": 21618
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 37,
+          "damageMax": 90,
+          "speed": 1.5,
+          "dps": 42.3
+        },
+        "weaponType": "one-hand dagger"
+      },
+      {
+        "id": 21244,
+        "name": "Blessed Qiraji Pugio",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 7,
+          "attackPower": 18
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+18 Attack Power.",
+            "statMod": {
+              "attackPower": 18
+            },
+            "spellId": 9330
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand dagger",
+          "damageMin": 72,
+          "damageMax": 134,
+          "speed": 1.7,
+          "dps": 60.6
+        },
+        "weaponType": "one-hand dagger"
+      }
+    ],
+    "two-hand staff": [
+      {
+        "id": 18842,
+        "name": "Staff of Dominance",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 34,
+          "stamina": 16,
+          "spirit": 14
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 53.",
+            "statMod": {
+              "damageSpellPower": 53,
+              "healingPower": 53
+            },
+            "spellId": 26142
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 126,
+          "damageMax": 205,
+          "speed": 2.9,
+          "dps": 57.1
+        },
+        "weaponType": "two-hand staff"
+      },
+      {
+        "id": 18715,
+        "name": "Lok'delar, Stave of the Ancient Keepers",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 26,
+          "intellect": 15,
+          "natureResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 2%.",
+            "statMod": {
+              "crit": 2
+            },
+            "spellId": 7598
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 187,
+          "damageMax": 282,
+          "speed": 3.2,
+          "dps": 73.3
+        },
+        "weaponType": "two-hand staff"
+      },
+      {
+        "id": 18608,
+        "name": "Benediction",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [
+          "Priest"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 31,
+          "stamina": 10,
+          "spirit": 12,
+          "shadowResistance": 20
+        },
+        "effects": [
+          {
+            "type": "use",
+            "description": "Use:Calls forth Anathema.",
+            "statMod": {},
+            "spellId": 23041
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases the critical effect chance of your Holy spells by 2%.",
+            "statMod": {},
+            "spellId": 23236
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 106.",
+            "statMod": {
+              "healingPower": 106
+            },
+            "spellId": 23264
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Holy spells and effects by up to 69.",
+            "statMod": {
+              "holySpellPower": 69
+            },
+            "spellId": 56529
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 134,
+          "damageMax": 222,
+          "speed": 3.0,
+          "dps": 59.3
+        },
+        "weaponType": "two-hand staff"
+      },
+      {
+        "id": 18609,
+        "name": "Anathema",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [
+          "Priest"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 31,
+          "stamina": 22,
+          "shadowResistance": 20
+        },
+        "effects": [
+          {
+            "type": "use",
+            "description": "Use:Calls forth Benediction.",
+            "statMod": {},
+            "spellId": 23042
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 7 mana per 5 sec.",
+            "statMod": {
+              "mp5": 7
+            },
+            "spellId": 21364
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Shadow spells and effects by up to 69.",
+            "statMod": {
+              "shadowSpellPower": 69
+            },
+            "spellId": 23265
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 134,
+          "damageMax": 222,
+          "speed": 3.0,
+          "dps": 59.3
+        },
+        "weaponType": "two-hand staff"
+      },
+      {
+        "id": 21273,
+        "name": "Blessed Qiraji Acolyte Staff",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 33,
+          "stamina": 32
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 76.",
+            "statMod": {
+              "damageSpellPower": 76,
+              "healingPower": 76
+            },
+            "spellId": 26460
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 2%.",
+            "statMod": {
+              "spellHit": 2
+            },
+            "spellId": 23729
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 132,
+          "damageMax": 227,
+          "speed": 3.0,
+          "dps": 59.8
+        },
+        "weaponType": "two-hand staff"
+      },
+      {
+        "id": 21275,
+        "name": "Blessed Qiraji Augur Staff",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 24,
+          "stamina": 23
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 143.",
+            "statMod": {
+              "healingPower": 143
+            },
+            "spellId": 26461
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 15 mana per 5 sec.",
+            "statMod": {
+              "mp5": 15
+            },
+            "spellId": 21643
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand staff",
+          "damageMin": 132,
+          "damageMax": 227,
+          "speed": 3.0,
+          "dps": 59.8
+        },
+        "weaponType": "two-hand staff"
+      }
+    ],
+    "two-hand polearm": [
+      {
+        "id": 17074,
+        "name": "Shadowstrike",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [
+          {
+            "type": "use",
+            "description": "Use:Transforms Shadowstrike into Thunderstrike.",
+            "statMod": {},
+            "spellId": 21180
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Sulfuron"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand polearm",
+          "damageMin": 163,
+          "damageMax": 247,
+          "speed": 3.1,
+          "dps": 66.1
+        },
+        "weaponType": "two-hand polearm"
+      },
+      {
+        "id": 17223,
+        "name": "Thunderstrike",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {},
+        "effects": [
+          {
+            "type": "use",
+            "description": "Use:Transforms Thunderstrike into Shadowstrike.",
+            "statMod": {},
+            "spellId": 21181
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Sulfuron"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand polearm",
+          "damageMin": 163,
+          "damageMax": 247,
+          "speed": 3.1,
+          "dps": 66.1
+        },
+        "weaponType": "two-hand polearm"
+      }
+    ],
+    "two-hand axe": [
+      {
+        "id": 17104,
+        "name": "Spinal Reaper",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "attackPower": 34
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 150 mana or 20 rage when you kill a target that gives experience; this effect cannot occur more than once every 10 seconds.",
+            "statMod": {},
+            "spellId": 21185
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+34 Attack Power.",
+            "statMod": {
+              "attackPower": 34
+            },
+            "spellId": 15806
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand axe",
+          "damageMin": 203,
+          "damageMax": 305,
+          "speed": 3.4,
+          "dps": 74.7
+        },
+        "weaponType": "two-hand axe"
+      },
+      {
+        "id": 19353,
+        "name": "Drake Talon Cleaver",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 17,
+          "stamina": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Two-handed Axes +8.",
+            "statMod": {
+              "twohandedaxes": 8
+            },
+            "spellId": 14817
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand axe",
+          "damageMin": 199,
+          "damageMax": 300,
+          "speed": 3.4,
+          "dps": 73.4
+        },
+        "weaponType": "two-hand axe"
+      },
+      {
+        "id": 19354,
+        "name": "Draconic Avenger",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "strength": 22,
+          "stamina": 25
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to parry an attack by 2%.",
+            "statMod": {},
+            "spellId": 13667
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "two-hand axe",
+          "damageMin": 174,
+          "damageMax": 262,
+          "speed": 3.2,
+          "dps": 68.1
+        },
+        "weaponType": "two-hand axe"
+      }
+    ],
+    "one-hand axe": [
+      {
+        "id": 81260,
+        "name": "Lavashard Axe",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 50,
+          "stamina": 6
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand axe",
+          "damageMin": 79,
+          "damageMax": 147,
+          "speed": 2.4,
+          "dps": 47.1
+        },
+        "weaponType": "one-hand axe"
+      },
+      {
+        "id": 19363,
+        "name": "Crul'shorukh, Edge of Chaos",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "stamina": 13,
+          "attackPower": 36
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+36 Attack Power.",
+            "statMod": {
+              "attackPower": 36
+            },
+            "spellId": 14089
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand axe",
+          "damageMin": 101,
+          "damageMax": 188,
+          "speed": 2.3,
+          "dps": 62.8
+        },
+        "weaponType": "one-hand axe"
+      },
+      {
+        "id": 19362,
+        "name": "Doom's Edge",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "agility": 12,
+          "strength": 9,
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Axes +4.",
+            "statMod": {
+              "axes": 4
+            },
+            "spellId": 7539
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand axe",
+          "damageMin": 83,
+          "damageMax": 154,
+          "speed": 2.3,
+          "dps": 51.5
+        },
+        "weaponType": "one-hand axe"
+      },
+      {
+        "id": 21242,
+        "name": "Blessed Qiraji War Axe",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 10,
+          "stamina": 9,
+          "attackPower": 14
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+14 Attack Power.",
+            "statMod": {
+              "attackPower": 14
+            },
+            "spellId": 9142
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand axe",
+          "damageMin": 110,
+          "damageMax": 205,
+          "speed": 2.6,
+          "dps": 60.6
+        },
+        "weaponType": "one-hand axe"
+      }
+    ],
+    "one-hand mace": [
+      {
+        "id": 21268,
+        "name": "Blessed Qiraji War Hammer",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 70,
+          "stamina": 12,
+          "strength": 10,
+          "attackPower": 280,
+          "defenseRating": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+280 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.",
+            "statMod": {
+              "attackPower": 280
+            },
+            "spellId": 24697
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +8.",
+            "statMod": {
+              "defenseRating": 8,
+              "defense": 8
+            },
+            "spellId": 13387
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": {
+          "type": "one-hand mace",
+          "damageMin": 89,
+          "damageMax": 166,
+          "speed": 2.1,
+          "dps": 60.7
+        },
+        "weaponType": "one-hand mace"
+      }
+    ]
+  },
   "Armor": {
-    "Cloth": [],
-    "Leather": [],
+    "Cloth": [
+      {
+        "id": 19145,
+        "name": "Robe of Volatile Power",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 102,
+          "intellect": 15,
+          "stamina": 10,
+          "spirit": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 2%.",
+            "statMod": {
+              "spellCrit": 2
+            },
+            "spellId": 18382
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 23.",
+            "statMod": {
+              "damageSpellPower": 23,
+              "healingPower": 23
+            },
+            "spellId": 14047
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18872,
+        "name": "Manastorm Leggings",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 58,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 85,
+          "stamina": 19,
+          "intellect": 14
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 14 mana per 5 sec.",
+            "statMod": {
+              "mp5": 14
+            },
+            "spellId": 21640
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19136,
+        "name": "Mana Igniting Cord",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 61,
+          "intellect": 16,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 25.",
+            "statMod": {
+              "damageSpellPower": 25,
+              "healingPower": 25
+            },
+            "spellId": 15715
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18808,
+        "name": "Gloves of the Hypnotic Flame",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 67,
+          "intellect": 19,
+          "stamina": 18,
+          "spirit": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Fire spells and effects by up to 23.",
+            "statMod": {
+              "fireSpellPower": 23
+            },
+            "spellId": 17747
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 9.",
+            "statMod": {
+              "damageSpellPower": 9,
+              "healingPower": 9
+            },
+            "spellId": 9415
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18809,
+        "name": "Sash of Whispered Secrets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 61,
+          "stamina": 20
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Shadow spells and effects by up to 33.",
+            "statMod": {
+              "shadowSpellPower": 33
+            },
+            "spellId": 18013
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 10 health per 5 sec.",
+            "statMod": {
+              "hp5": 10
+            },
+            "spellId": 21606
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 81261,
+        "name": "Boots of Blistering Flames",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 69,
+          "intellect": 16,
+          "stamina": 16,
+          "spirit": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Fire spells and effects by up to 19.",
+            "statMod": {
+              "fireSpellPower": 19
+            },
+            "spellId": 9296
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 11.",
+            "statMod": {
+              "damageSpellPower": 11,
+              "healingPower": 11
+            },
+            "spellId": 9416
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18263,
+        "name": "Flarecore Wraps",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 44,
+          "stamina": 14,
+          "fireResistance": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 16.",
+            "statMod": {
+              "damageSpellPower": 16,
+              "healingPower": 16
+            },
+            "spellId": 9345
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "RANDOMBOSSDROPS"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19370,
+        "name": "Mantle of the Blackwing Cabal",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 84,
+          "intellect": 16,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 34.",
+            "statMod": {
+              "damageSpellPower": 34,
+              "healingPower": 34
+            },
+            "spellId": 18052
+          }
+        ],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19369,
+        "name": "Gloves of Rapid Evolution",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 70,
+          "intellect": 12,
+          "spirit": 32,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Allows 5% of your Mana regeneration to continue while casting.",
+            "statMod": {},
+            "spellId": 57158
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19374,
+        "name": "Bracers of Arcane Accuracy",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 50,
+          "intellect": 10,
+          "stamina": 5
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 1%.",
+            "statMod": {
+              "spellHit": 1
+            },
+            "spellId": 23727
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 25.",
+            "statMod": {
+              "damageSpellPower": 25,
+              "healingPower": 25
+            },
+            "spellId": 15715
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19399,
+        "name": "Black Ash Robe",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 114,
+          "intellect": 22,
+          "stamina": 21,
+          "fireResistance": 30
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 20.",
+            "statMod": {
+              "damageSpellPower": 20,
+              "healingPower": 20
+            },
+            "spellId": 14799
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19400,
+        "name": "Firemaw's Clutch",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 64,
+          "intellect": 12,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 35.",
+            "statMod": {
+              "damageSpellPower": 35,
+              "healingPower": 35
+            },
+            "spellId": 14055
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 5 mana per 5 sec.",
+            "statMod": {
+              "mp5": 5
+            },
+            "spellId": 21363
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19407,
+        "name": "Ebony Flame Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 72,
+          "intellect": 12,
+          "stamina": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Shadow spells and effects by up to 43.",
+            "statMod": {
+              "shadowSpellPower": 43
+            },
+            "spellId": 18020
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Ebonroc"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19388,
+        "name": "Angelista's Grasp",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 66,
+          "intellect": 20,
+          "stamina": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 11.",
+            "statMod": {
+              "damageSpellPower": 11,
+              "healingPower": 11
+            },
+            "spellId": 9416
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 2%.",
+            "statMod": {
+              "spellHit": 2
+            },
+            "spellId": 23729
+          }
+        ],
+        "durability": [
+          35,
+          35
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19385,
+        "name": "Empowered Leggings",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 103,
+          "intellect": 12,
+          "spirit": 24,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 77.",
+            "statMod": {
+              "healingPower": 77
+            },
+            "spellId": 18046
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19391,
+        "name": "Shimmering Geta",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 81,
+          "intellect": 17,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 12 mana per 5 sec.",
+            "statMod": {
+              "mp5": 12
+            },
+            "spellId": 21636
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19375,
+        "name": "Mish'undare, Circlet of the Mind Flayer",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 102,
+          "intellect": 24,
+          "spirit": 9,
+          "stamina": 15
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 35.",
+            "statMod": {
+              "damageSpellPower": 35,
+              "healingPower": 35
+            },
+            "spellId": 14055
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 2%.",
+            "statMod": {
+              "spellCrit": 2
+            },
+            "spellId": 18382
+          }
+        ],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19437,
+        "name": "Boots of Pure Thought",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 74,
+          "intellect": 12,
+          "spirit": 12,
+          "stamina": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 62.",
+            "statMod": {
+              "healingPower": 62
+            },
+            "spellId": 18039
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19438,
+        "name": "Ringo's Blizzard Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 75,
+          "intellect": 12,
+          "stamina": 11
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Frost spells and effects by up to 40.",
+            "statMod": {
+              "frostSpellPower": 40
+            },
+            "spellId": 17900
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 1%.",
+            "statMod": {
+              "spellHit": 1
+            },
+            "spellId": 23727
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21694,
+        "name": "Ternary Mantle",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 86,
+          "intellect": 17,
+          "spirit": 20,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 44.",
+            "statMod": {
+              "healingPower": 44
+            },
+            "spellId": 17371
+          }
+        ],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Trio"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21696,
+        "name": "Robes of the Triumvirate",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 114,
+          "intellect": 22,
+          "stamina": 21,
+          "natureResistance": 30
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 7 mana per 5 sec.",
+            "statMod": {
+              "mp5": 7
+            },
+            "spellId": 21364
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Trio"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Leather": [
+      {
+        "id": 19146,
+        "name": "Wristguards of Stability",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 86,
+          "strength": 24,
+          "stamina": 8
+        },
+        "effects": [],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18875,
+        "name": "Salamander Scale Pants",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 59,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 171,
+          "intellect": 14,
+          "stamina": 14,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 51.",
+            "statMod": {
+              "healingPower": 51
+            },
+            "spellId": 18035
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 9 mana per 5 sec.",
+            "statMod": {
+              "mp5": 9
+            },
+            "spellId": 21365
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16822,
+        "name": "Nightslayer Pants",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 175,
+          "agility": 33,
+          "stamina": 15,
+          "strength": 10,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18823,
+        "name": "Aged Core Leather Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 130,
+          "strength": 15,
+          "stamina": 15,
+          "fireResistance": 8,
+          "shadowResistance": 5
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Daggers +5.",
+            "statMod": {
+              "daggers": 5
+            },
+            "spellId": 7576
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16826,
+        "name": "Nightslayer Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 125,
+          "agility": 18,
+          "stamina": 17,
+          "strength": 12,
+          "fireResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Gehennas"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16821,
+        "name": "Nightslayer Cover",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 163,
+          "agility": 20,
+          "stamina": 19,
+          "strength": 6,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 2%.",
+            "statMod": {
+              "crit": 2
+            },
+            "spellId": 7598
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16824,
+        "name": "Nightslayer Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 138,
+          "agility": 26,
+          "stamina": 18,
+          "shadowResistance": 7
+        },
+        "effects": [],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Shazzrah"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16820,
+        "name": "Nightslayer Chestpiece",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 200,
+          "agility": 29,
+          "stamina": 20,
+          "strength": 10,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16823,
+        "name": "Nightslayer Shoulder Pads",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 150,
+          "agility": 26,
+          "stamina": 12,
+          "strength": 3,
+          "shadowResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Sulfuron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19139,
+        "name": "Fireguard Shoulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 159,
+          "stamina": 28,
+          "fireResistance": 22
+        },
+        "effects": [],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18810,
+        "name": "Wild Growth Spaulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 159,
+          "intellect": 12,
+          "stamina": 11,
+          "spirit": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 62.",
+            "statMod": {
+              "healingPower": 62
+            },
+            "spellId": 18039
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16909,
+        "name": "Bloodfang Pants",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 197,
+          "agility": 37,
+          "stamina": 17,
+          "strength": 11,
+          "fireResistance": 10,
+          "arcaneResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16827,
+        "name": "Nightslayer Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 113,
+          "agility": 17,
+          "stamina": 18,
+          "strength": 9,
+          "fireResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16825,
+        "name": "Nightslayer Bracelets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 88,
+          "agility": 20,
+          "stamina": 15
+        },
+        "effects": [],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 81265,
+        "name": "Ashskin Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 111,
+          "strength": 10,
+          "agility": 10,
+          "stamina": 15,
+          "fireResistance": 10,
+          "shadowResistance": 5
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16911,
+        "name": "Bloodfang Bracers",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 98,
+          "agility": 23,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16910,
+        "name": "Bloodfang Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 126,
+          "agility": 20,
+          "stamina": 15,
+          "strength": 13,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Vaelastrasz"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16906,
+        "name": "Bloodfang Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 154,
+          "agility": 25,
+          "stamina": 17,
+          "strength": 6,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16907,
+        "name": "Bloodfang Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 140,
+          "agility": 20,
+          "stamina": 20,
+          "strength": 19,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Immune to Disarm.",
+            "statMod": {},
+            "spellId": 7219
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19396,
+        "name": "Taut Dragonhide Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 125,
+          "stamina": 17,
+          "attackPower": 60
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+60 Attack Power.",
+            "statMod": {
+              "attackPower": 60
+            },
+            "spellId": 14052
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to dodge an attack by 1%.",
+            "statMod": {
+              "dodge": 1
+            },
+            "spellId": 13669
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19405,
+        "name": "Malfurion's Blessed Bulwark",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 392,
+          "strength": 40,
+          "stamina": 22
+        },
+        "effects": [],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Ebonroc"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16832,
+        "name": "Bloodfang Spaulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 169,
+          "agility": 25,
+          "stamina": 17,
+          "strength": 6,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19389,
+        "name": "Taut Dragonhide Shoulderpads",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 170,
+          "stamina": 30,
+          "attackPower": 46
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+46 Attack Power.",
+            "statMod": {
+              "attackPower": 46
+            },
+            "spellId": 15811
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19390,
+        "name": "Taut Dragonhide Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 142,
+          "intellect": 20,
+          "stamina": 20
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 1%.",
+            "statMod": {
+              "spellCrit": 1
+            },
+            "spellId": 18384
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 6 mana per 5 sec.",
+            "statMod": {
+              "mp5": 6
+            },
+            "spellId": 21627
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16905,
+        "name": "Bloodfang Chestpiece",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [
+          "Rogue"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 225,
+          "agility": 26,
+          "stamina": 17,
+          "strength": 12,
+          "fireResistance": 10,
+          "natureResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 2%.",
+            "statMod": {
+              "hit": 2
+            },
+            "spellId": 15465
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19381,
+        "name": "Boots of the Shadow Flame",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 286,
+          "stamina": 22,
+          "attackPower": 44
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+44 Attack Power.",
+            "statMod": {
+              "attackPower": 44
+            },
+            "spellId": 15810
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 2%.",
+            "statMod": {
+              "hit": 2
+            },
+            "spellId": 15465
+          }
+        ],
+        "durability": [
+          60,
+          60
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19439,
+        "name": "Interlaced Shadow Jerkin",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 212,
+          "stamina": 25,
+          "shadowResistance": 30,
+          "attackPower": 28
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+28 Attack Power.",
+            "statMod": {
+              "attackPower": 28
+            },
+            "spellId": 9335
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21708,
+        "name": "Beetle Scaled Wristguards",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 95,
+          "stamina": 14,
+          "intellect": 12,
+          "natureResistance": 15,
+          "attackPower": 18
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+18 Attack Power.",
+            "statMod": {
+              "attackPower": 18
+            },
+            "spellId": 9330
+          }
+        ],
+        "durability": [
+          40,
+          40
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21698,
+        "name": "Leggings of Immersion",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 190,
+          "intellect": 22,
+          "stamina": 15
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 1%.",
+            "statMod": {
+              "spellHit": 1
+            },
+            "spellId": 23727
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 40.",
+            "statMod": {
+              "damageSpellPower": 40,
+              "healingPower": 40
+            },
+            "spellId": 18056
+          }
+        ],
+        "durability": [
+          90,
+          90
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21693,
+        "name": "Guise of the Devourer",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "leather",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 250,
+          "stamina": 36,
+          "agility": 19,
+          "strength": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to dodge an attack by 1%.",
+            "statMod": {
+              "dodge": 1
+            },
+            "spellId": 13669
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Trio"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
     "Mail": [
       {
-        "id": 61239,
-        "name": "Ancient Jade Leggings",
+        "id": 18870,
+        "name": "Helm of the Lifegiver",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 57,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 324,
+          "intellect": 30,
+          "stamina": 14,
+          "spirit": 9
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 42.",
+            "statMod": {
+              "healingPower": 42
+            },
+            "spellId": 18032
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16847,
+        "name": "Giantstalker's Leggings",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 369,
+          "agility": 32,
+          "intellect": 6,
+          "spirit": 8,
+          "stamina": 15,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18829,
+        "name": "Deep Earth Spaulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 399,
+          "intellect": 12,
+          "stamina": 11,
+          "spirit": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage done by Nature spells and effects by up to 40.",
+            "statMod": {
+              "natureSpellPower": 40
+            },
+            "spellId": 17997
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19144,
+        "name": "Sabatons of the Flamewalker",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 298,
+          "stamina": 27,
+          "intellect": 11,
+          "attackPower": 30
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+30 Attack Power.",
+            "statMod": {
+              "attackPower": 30
+            },
+            "spellId": 9336
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16849,
+        "name": "Giantstalker's Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 290,
+          "agility": 28,
+          "spirit": 6,
+          "stamina": 14,
+          "shadowResistance": 7
+        },
+        "effects": [],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Gehennas"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16846,
+        "name": "Giantstalker's Helmet",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 343,
+          "agility": 23,
+          "intellect": 15,
+          "spirit": 8,
+          "stamina": 23,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16852,
+        "name": "Giantstalker's Gloves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 264,
+          "agility": 18,
+          "stamina": 12,
+          "fireResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 2%.",
+            "statMod": {
+              "hit": 2
+            },
+            "spellId": 15465
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Shazzrah"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16845,
+        "name": "Giantstalker's Breastplate",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 422,
+          "agility": 26,
+          "intellect": 11,
+          "stamina": 23,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          140,
+          140
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Golemagg"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16848,
+        "name": "Giantstalker's Epaulets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 317,
+          "agility": 24,
+          "intellect": 5,
+          "spirit": 9,
+          "stamina": 14,
+          "shadowResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Sulfuron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18812,
+        "name": "Wristguards of True Flight",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 198,
+          "agility": 19,
+          "stamina": 11,
+          "intellect": 6
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16938,
+        "name": "Dragonstalker's Legguards",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 422,
+          "agility": 31,
+          "intellect": 15,
+          "spirit": 8,
+          "stamina": 16,
+          "fireResistance": 10,
+          "arcaneResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18817,
+        "name": "Crown of Destruction",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 392,
+          "stamina": 23,
+          "intellect": 9,
+          "spirit": 9,
+          "fireResistance": 10,
+          "attackPower": 44
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 2%.",
+            "statMod": {
+              "crit": 2
+            },
+            "spellId": 7598
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+44 Attack Power.",
+            "statMod": {
+              "attackPower": 44
+            },
+            "spellId": 15810
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16851,
+        "name": "Giantstalker's Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 237,
+          "agility": 18,
+          "intellect": 9,
+          "spirit": 4,
+          "stamina": 16,
+          "fireResistance": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16850,
+        "name": "Giantstalker's Bracers",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 185,
+          "agility": 20,
+          "intellect": 6,
+          "spirit": 5,
+          "stamina": 11
+        },
+        "effects": [],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 81264,
+        "name": "Shoulderpads of True Flight",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 413,
+          "agility": 18,
+          "intellect": 9,
+          "stamina": 18
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16935,
+        "name": "Dragonstalker's Bracers",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "wrist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 211,
+          "agility": 23,
+          "intellect": 6,
+          "spirit": 6,
+          "stamina": 13
+        },
+        "effects": [],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Razorgore"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16936,
+        "name": "Dragonstalker's Belt",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 271,
+          "agility": 20,
+          "intellect": 13,
+          "spirit": 11,
+          "stamina": 15,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Vaelastrasz"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16941,
+        "name": "Dragonstalker's Greaves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 332,
+          "agility": 30,
+          "intellect": 6,
+          "spirit": 6,
+          "stamina": 15,
+          "fireResistance": 10
+        },
+        "effects": [],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19373,
+        "name": "Black Brood Pauldrons",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 357,
+          "agility": 17,
+          "intellect": 15,
+          "stamina": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 9 mana per 5 sec.",
+            "statMod": {
+              "mp5": 9
+            },
+            "spellId": 21631
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Lashlayer"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16940,
+        "name": "Dragonstalker's Gauntlets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 301,
+          "agility": 20,
+          "intellect": 13,
+          "spirit": 6,
+          "stamina": 17,
+          "shadowResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19401,
+        "name": "Primalist's Linked Legguards",
         "quality": "epic",
         "qualityId": 4,
         "slot": "legs",
@@ -18,20 +5540,256 @@
         "itemLevel": null,
         "unique": false,
         "baseStats": {
-          "armor": 432,
-          "agility": 26,
-          "stamina": 21,
-          "intellect": 16,
-          "strength": 9
+          "armor": 417,
+          "intellect": 23,
+          "stamina": 23
         },
         "effects": [
           {
             "type": "equip",
-            "description": "Equip:Increased Two-handed Maces +8.",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 14.",
             "statMod": {
-              "twohandedmaces": 8
+              "damageSpellPower": 14,
+              "healingPower": 14
             },
-            "spellId": 15775
+            "spellId": 9343
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 2%.",
+            "statMod": {
+              "spellCrit": 2
+            },
+            "spellId": 18382
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 1%.",
+            "statMod": {
+              "spellHit": 1
+            },
+            "spellId": 23727
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19433,
+        "name": "Emberweave Leggings",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 417,
+          "stamina": 22,
+          "agility": 17,
+          "intellect": 12,
+          "fireResistance": 35
+        },
+        "effects": [],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Flamegor"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16937,
+        "name": "Dragonstalker's Spaulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 362,
+          "agility": 23,
+          "intellect": 13,
+          "spirit": 6,
+          "stamina": 15,
+          "fireResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19393,
+        "name": "Primalist's Linked Waistguard",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 275,
+          "strength": 16,
+          "intellect": 16,
+          "agility": 15,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 20.",
+            "statMod": {
+              "damageSpellPower": 20,
+              "healingPower": 20
+            },
+            "spellId": 14799
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases your attack and casting speed by 1%.",
+            "statMod": {
+              "haste": 1
+            },
+            "spellId": 13679
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 16942,
+        "name": "Dragonstalker's Breastplate",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [
+          "Hunter"
+        ],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 482,
+          "agility": 34,
+          "intellect": 14,
+          "spirit": 6,
+          "stamina": 17,
+          "fireResistance": 10,
+          "natureResistance": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          }
+        ],
+        "durability": [
+          140,
+          140
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19380,
+        "name": "Therazane's Link",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 295,
+          "intellect": 14,
+          "stamina": 24,
+          "attackPower": 44
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+44 Attack Power.",
+            "statMod": {
+              "attackPower": 44
+            },
+            "spellId": 15810
           },
           {
             "type": "equip",
@@ -43,12 +5801,1600 @@
           },
           {
             "type": "equip",
-            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 15.",
+            "description": "Equip:Increases your attack and casting speed by 1%.",
             "statMod": {
-              "damageSpellPower": 15,
-              "healingPower": 15
+              "haste": 1
             },
-            "spellId": 9344
+            "spellId": 13679
+          }
+        ],
+        "durability": [
+          50,
+          50
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21699,
+        "name": "Barrage Shoulders",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 348,
+          "agility": 29,
+          "stamina": 22
+        },
+        "effects": [],
+        "durability": [
+          85,
+          85
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21705,
+        "name": "Boots of the Fallen Prophet",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 319,
+          "agility": 10,
+          "strength": 15,
+          "intellect": 15,
+          "stamina": 15
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 20.",
+            "statMod": {
+              "damageSpellPower": 20,
+              "healingPower": 20
+            },
+            "spellId": 14799
+          }
+        ],
+        "durability": [
+          70,
+          70
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Plate": [
+      {
+        "id": 18861,
+        "name": "Flamewaker Legplates",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 56,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 748,
+          "stamina": 22,
+          "strength": 18,
+          "fireResistance": 11,
+          "shadowResistance": 11
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to dodge an attack by 1%.",
+            "statMod": {
+              "dodge": 1
+            },
+            "spellId": 13669
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19143,
+        "name": "Flameguard Gauntlets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "hands",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 488,
+          "stamina": 6,
+          "attackPower": 54
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+54 Attack Power.",
+            "statMod": {
+              "attackPower": 54
+            },
+            "spellId": 15813
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Two-handed Axes +7.",
+            "statMod": {
+              "twohandedaxes": 7
+            },
+            "spellId": 7554
+          }
+        ],
+        "durability": [
+          55,
+          55
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18824,
+        "name": "Magma Tempered Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 544,
+          "stamina": 19,
+          "intellect": 18,
+          "spirit": 12,
+          "fireResistance": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 18.",
+            "statMod": {
+              "healingPower": 18
+            },
+            "spellId": 9406
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Magmadar"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18806,
+        "name": "Core Forged Greaves",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 634,
+          "stamina": 28,
+          "fireResistance": 12,
+          "shadowResistance": 8,
+          "defenseRating": 4
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +4.",
+            "statMod": {
+              "defenseRating": 4,
+              "defense": 4
+            },
+            "spellId": 7517
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19137,
+        "name": "Onslaught Girdle",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 494,
+          "strength": 31,
+          "stamina": 11
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          55,
+          55
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 81262,
+        "name": "Core Forged Helmet",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 600,
+          "stamina": 34,
+          "fireResistance": 14,
+          "shadowResistance": 10,
+          "defenseRating": 6
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 14.",
+            "statMod": {
+              "damageSpellPower": 14,
+              "healingPower": 14
+            },
+            "spellId": 9343
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +6.",
+            "statMod": {
+              "defenseRating": 6,
+              "defense": 6
+            },
+            "spellId": 13384
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19372,
+        "name": "Helm of Endless Rage",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "head",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 679,
+          "strength": 25,
+          "agility": 25,
+          "stamina": 26
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Vaelastrasz"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19394,
+        "name": "Drake Talon Pauldrons",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "shoulder",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 634,
+          "agility": 20,
+          "strength": 20,
+          "stamina": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to dodge an attack by 1%.",
+            "statMod": {
+              "dodge": 1
+            },
+            "spellId": 13669
+          }
+        ],
+        "durability": [
+          100,
+          100
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19402,
+        "name": "Legguards of the Fallen Crusader",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 740,
+          "strength": 35,
+          "agility": 20,
+          "stamina": 18
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19392,
+        "name": "Girdle of the Fallen Crusader",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 488,
+          "strength": 20,
+          "stamina": 17,
+          "intellect": 17,
+          "agility": 16
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your attack and casting speed by 1%.",
+            "statMod": {
+              "haste": 1
+            },
+            "spellId": 13679
+          }
+        ],
+        "durability": [
+          55,
+          55
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19387,
+        "name": "Chromatic Boots",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 596,
+          "agility": 20,
+          "strength": 20,
+          "stamina": 19
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21814,
+        "name": "Breastplate of Annihilation",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 824,
+          "strength": 37,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": [
+          165,
+          165
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21704,
+        "name": "Boots of the Redeemed Prophecy",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 567,
+          "agility": 12,
+          "strength": 15,
+          "intellect": 16,
+          "stamina": 15
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 18.",
+            "statMod": {
+              "damageSpellPower": 18,
+              "healingPower": 18
+            },
+            "spellId": 9346
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21706,
+        "name": "Boots of the Unwavering Will",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "feet",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 647,
+          "stamina": 29,
+          "strength": 12,
+          "agility": 8,
+          "defenseRating": 5
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +5.",
+            "statMod": {
+              "defenseRating": 5,
+              "defense": 5
+            },
+            "spellId": 13383
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 22196,
+        "name": "Thick Obsidian Breastplate",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "chest",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 814,
+          "strength": 16,
+          "stamina": 38
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:When struck by a non-periodic damage spell you have a 30% chance of getting a 6 sec spell shield that absorbs 300 to 501 of that school of damage.",
+            "statMod": {},
+            "spellId": 27539
+          }
+        ],
+        "durability": [
+          165,
+          165
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21692,
+        "name": "Triad Girdle",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "waist",
+        "armorType": "plate",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 476,
+          "strength": 26,
+          "agility": 19,
+          "stamina": 17
+        },
+        "effects": [],
+        "durability": [
+          55,
+          55
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Trio"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Cloak": [
+      {
+        "id": 18811,
+        "name": "Fireproof Cloak",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 54,
+          "stamina": 12,
+          "intellect": 9,
+          "spirit": 8,
+          "fireResistance": 18
+        },
+        "effects": [],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Majordomo"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 17102,
+        "name": "Cloak of the Shrouded Mists",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 57,
+          "agility": 22,
+          "stamina": 12,
+          "fireResistance": 6,
+          "natureResistance": 6
+        },
+        "effects": [],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 17107,
+        "name": "Dragon's Blood Cape",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 116,
+          "stamina": 22,
+          "strength": 9,
+          "fireResistance": 5,
+          "shadowResistance": 5,
+          "arcaneResistance": 5
+        },
+        "effects": [],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19398,
+        "name": "Cloak of Firemaw",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 57,
+          "stamina": 12,
+          "attackPower": 50
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:+50 Attack Power.",
+            "statMod": {
+              "attackPower": 50
+            },
+            "spellId": 14056
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19430,
+        "name": "Shroud of Pure Thought",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 57,
+          "intellect": 11,
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 33.",
+            "statMod": {
+              "healingPower": 33
+            },
+            "spellId": 9318
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Restores 6 mana per 5 sec.",
+            "statMod": {
+              "mp5": 6
+            },
+            "spellId": 21626
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Flamegor"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19386,
+        "name": "Elementium Threaded Cloak",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 169,
+          "stamina": 13
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to dodge an attack by 2%.",
+            "statMod": {
+              "dodge": 2
+            },
+            "spellId": 13670
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19378,
+        "name": "Cloak of the Brood Lord",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 63,
+          "intellect": 14,
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 28.",
+            "statMod": {
+              "damageSpellPower": 28,
+              "healingPower": 28
+            },
+            "spellId": 14127
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19436,
+        "name": "Cloak of Draconic Might",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 54,
+          "agility": 16,
+          "strength": 16,
+          "stamina": 4
+        },
+        "effects": [],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21701,
+        "name": "Cloak of Concentrated Hatred",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 56,
+          "agility": 16,
+          "strength": 11,
+          "stamina": 15
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit by 1%.",
+            "statMod": {
+              "hit": 1
+            },
+            "spellId": 15464
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21697,
+        "name": "Cape of the Trinity",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "back",
+        "armorType": "cloth",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 57,
+          "stamina": 17,
+          "intellect": 12
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 21.",
+            "statMod": {
+              "damageSpellPower": 21,
+              "healingPower": 21
+            },
+            "spellId": 14248
+          }
+        ],
+        "durability": null,
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Trio"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Accessories": {
+      "Necklace": [],
+      "Ring": [],
+      "Trinket": []
+    },
+    "Wand": [
+      {
+        "id": 17077,
+        "name": "Crimson Shocker",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "armorType": "wand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 58,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 10,
+          "fireResistance": 10
+        },
+        "effects": [],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Lucifron"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19367,
+        "name": "Dragon's Touch",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "armorType": "wand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 12,
+          "stamina": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 6.",
+            "statMod": {
+              "damageSpellPower": 6,
+              "healingPower": 6
+            },
+            "spellId": 9396
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Flamegor"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19435,
+        "name": "Essence Gatherer",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "ranged",
+        "armorType": "wand",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 7,
+          "stamina": 5
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 5 mana per 5 sec.",
+            "statMod": {
+              "mp5": 5
+            },
+            "spellId": 21363
+          }
+        ],
+        "durability": [
+          75,
+          75
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "TrashMobs"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Shield": [
+      {
+        "id": 17066,
+        "name": "Drillborer Disk",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2539,
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:When struck in combat inflicts 3 Arcane damage to the attacker.",
+            "statMod": {},
+            "spellId": 15438
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to block attacks with a shield by 2%.",
+            "statMod": {},
+            "spellId": 13675
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases the block value of your shield by 23.",
+            "statMod": {},
+            "spellId": 22852
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 17106,
+        "name": "Malistar's Defender",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2822,
+          "intellect": 12,
+          "stamina": 9
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 9 mana per 5 sec.",
+            "statMod": {
+              "mp5": 9
+            },
+            "spellId": 21365
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "Ragnaros"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 18168,
+        "name": "Force Reactive Disk",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2548,
+          "stamina": 11
+        },
+        "effects": [],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Molten Core",
+          "boss": "RANDOMBOSSDROPS"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19348,
+        "name": "Red Dragonscale Protector",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2787,
+          "intellect": 17,
+          "spirit": 6,
+          "stamina": 6
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases healing done by spells and effects by up to 37.",
+            "statMod": {
+              "healingPower": 37
+            },
+            "spellId": 18030
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Vaelastrasz"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19349,
+        "name": "Elementium Reinforced Bulwark",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2893,
+          "stamina": 23,
+          "defenseRating": 7
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases the block value of your shield by 19.",
+            "statMod": {},
+            "spellId": 23731
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +7.",
+            "statMod": {
+              "defenseRating": 7,
+              "defense": 7
+            },
+            "spellId": 13385
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Chromaggus"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21269,
+        "name": "Blessed Qiraji Bulwark",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "off hand",
+        "armorType": "shield",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": null,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 2964,
+          "stamina": 20,
+          "defenseRating": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases your chance to block attacks with a shield by 3%.",
+            "statMod": {},
+            "spellId": 21476
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases the block value of your shield by 15.",
+            "statMod": {},
+            "spellId": 23203
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increased Defense +8.",
+            "statMod": {
+              "defenseRating": 8,
+              "defense": 8
+            },
+            "spellId": 13387
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Mace": [
+      {
+        "id": 17105,
+        "name": "Aurastone Hammer",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "one-hand",
+        "armorType": "mace",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 10,
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Restores 5 mana per 5 sec.",
+            "statMod": {
+              "mp5": 5
+            },
+            "spellId": 21363
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 25.",
+            "statMod": {
+              "damageSpellPower": 25,
+              "healingPower": 25
+            },
+            "spellId": 15715
           }
         ],
         "durability": [
@@ -58,19 +7404,204 @@
         "set": null,
         "source": {
           "description": null,
-          "instance": null,
-          "boss": null
+          "instance": "Molten Core",
+          "boss": "Garr"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19360,
+        "name": "Lok'amir il Romathis",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "main hand",
+        "armorType": "mace",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 18,
+          "spirit": 8,
+          "stamina": 10
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 84.",
+            "statMod": {
+              "damageSpellPower": 84,
+              "healingPower": 84
+            },
+            "spellId": 23728
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
         },
         "icon": null,
         "weapon": null
       }
     ],
-    "Plate": [],
-    "Cloak": [],
-    "Accessories": {
-      "Necklace": [],
-      "Ring": [],
-      "Trinket": []
-    }
+    "Staff": [
+      {
+        "id": 19355,
+        "name": "Shadow Wing Focus Staff",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "armorType": "staff",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 32,
+          "stamina": 22,
+          "spirit": 17
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to hit with spells by 1%.",
+            "statMod": {
+              "spellHit": 1
+            },
+            "spellId": 23727
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 72.",
+            "statMod": {
+              "damageSpellPower": 72,
+              "healingPower": 72
+            },
+            "spellId": 26395
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Firemaw"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 19356,
+        "name": "Staff of the Shadow Flame",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "armorType": "staff",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 29,
+          "stamina": 24,
+          "spirit": 18
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike with spells by 2%.",
+            "statMod": {
+              "spellCrit": 2
+            },
+            "spellId": 18382
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 84.",
+            "statMod": {
+              "damageSpellPower": 84,
+              "healingPower": 84
+            },
+            "spellId": 23728
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "Blackwing Lair",
+          "boss": "Nefarian"
+        },
+        "icon": null,
+        "weapon": null
+      },
+      {
+        "id": 21128,
+        "name": "Staff of the Qiraji Prophets",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "two-hand",
+        "armorType": "staff",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "intellect": 22,
+          "stamina": 21,
+          "spirit": 8
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 72.",
+            "statMod": {
+              "damageSpellPower": 72,
+              "healingPower": 72
+            },
+            "spellId": 26395
+          },
+          {
+            "type": "equip",
+            "description": "Equip:+10 All Resistances.",
+            "statMod": {},
+            "spellId": 18681
+          }
+        ],
+        "durability": [
+          120,
+          120
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": "AQ40",
+          "boss": "Skeram"
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ]
   }
 }
