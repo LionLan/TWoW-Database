@@ -1,0 +1,76 @@
+{
+  "Weapon": {},
+  "Armor": {
+    "Cloth": [],
+    "Leather": [],
+    "Mail": [
+      {
+        "id": 61239,
+        "name": "Ancient Jade Leggings",
+        "quality": "epic",
+        "qualityId": 4,
+        "slot": "legs",
+        "armorType": "mail",
+        "subType": null,
+        "classRestrictions": [],
+        "factionRestrictions": [],
+        "levelRequired": 60,
+        "itemLevel": null,
+        "unique": false,
+        "baseStats": {
+          "armor": 432,
+          "agility": 26,
+          "stamina": 21,
+          "intellect": 16,
+          "strength": 9
+        },
+        "effects": [
+          {
+            "type": "equip",
+            "description": "Equip:Increased Two-handed Maces +8.",
+            "statMod": {
+              "twohandedmaces": 8
+            },
+            "spellId": 15775
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Improves your chance to get a critical strike by 1%.",
+            "statMod": {
+              "crit": 1
+            },
+            "spellId": 7597
+          },
+          {
+            "type": "equip",
+            "description": "Equip:Increases damage and healing done by magical spells and effects by up to 15.",
+            "statMod": {
+              "damageSpellPower": 15,
+              "healingPower": 15
+            },
+            "spellId": 9344
+          }
+        ],
+        "durability": [
+          105,
+          105
+        ],
+        "set": null,
+        "source": {
+          "description": null,
+          "instance": null,
+          "boss": null
+        },
+        "icon": null,
+        "weapon": null
+      }
+    ],
+    "Plate": [],
+    "Cloak": [],
+    "Accessories": {
+      "Necklace": [],
+      "Ring": [],
+      "Trinket": []
+    }
+  }
+}
